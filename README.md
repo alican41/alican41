@@ -7,11 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Android+%26+Python+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+Beautiful+Apps+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
   
   <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alican41/alican41/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alican41/alican41/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alican41/alican41/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
 </div>
 
@@ -112,25 +108,15 @@ val developer = Developer(
 
 ---
 
-### 🏆 Achievements & Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=alican41&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ### 💼 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/alican41">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alican41&repo=PROJE_ADI_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alican41&repo=CloverCafeApp&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7" />
 </a>
 <a href="https://github.com/alican41">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alican41&repo=PROJE_ADI_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alican41&repo=TetrisAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7" />
 </a>
 
 </div>
@@ -144,7 +130,6 @@ val developer = Developer(
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-can-doğru-6aa1571b9)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.can.dgru10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alican41)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A177F7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -155,16 +140,6 @@ val developer = Developer(
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in)
-
-</div>
-
----
-
-### 📈 Contribution Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alican41&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=FFFFFF" alt="WakaTime Stats" />
 
 </div>
 
